@@ -14,7 +14,7 @@ The Prework Study Guide is divided into sections to easily navigate common termi
 
 ## Credits
 
-[https://education.github.com/](GitHub Education) for providing the git cheat sheet
+[https://education.github.com/] (GitHub Education) for providing the git cheat sheet
 
 [https://www.techtarget.com/network/] (TechTarget) for providing some definitions
 
@@ -22,6 +22,6 @@ The Prework Study Guide is divided into sections to easily navigate common termi
 
 Please refer to the LICENSE in the repo
 
-[https://opensource.org/license/mit/](MIT Open Source License)
+[https://opensource.org/license/mit/] (MIT Open Source License)
 
 ---
